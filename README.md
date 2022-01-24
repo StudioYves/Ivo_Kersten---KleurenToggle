@@ -14,4 +14,7 @@ In this assignment the goal is to create a very simple color toggle within Vanil
 - When the color is clicked on the menu, the background of the webpage will change into the picked color.
 - After the color has been picked, the menu will close.
 
+## Link
+https://simple-js-colortoggle.netlify.app
+
 
